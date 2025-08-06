@@ -1,0 +1,19 @@
+.red-pink-bg {
+    background-color: rgb(243, 150, 164);
+    font-family: Verdana, DejaVu Sans,  sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(44, 90, 216);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgb(119, 204, 98);
+    font-size: 24px;
+    font-weight: bold;
+}
