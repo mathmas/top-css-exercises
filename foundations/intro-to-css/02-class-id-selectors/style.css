@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.classic {
+    background-color: rgb(255, 193, 182);
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#one {
+    font-size: 36px;
+    color: rgb(53, 53, 245);
+}
+
+#another {
+    background-color: rgb(126, 230, 126);
+    font-weight: bold;
+    font-size: 20px;
+}
